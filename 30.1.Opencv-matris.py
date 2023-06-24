@@ -1,6 +1,6 @@
 import cv2 as cv  
 
-img = cv.imread("30.2.opencv.png")
+img = cv.imread("opencv.png")
 
 cv.imshow("python",img)
 
